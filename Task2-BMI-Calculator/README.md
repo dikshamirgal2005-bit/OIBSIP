@@ -19,5 +19,4 @@ BMI = weight / (height²)
 - Matplotlib
 - CSV Data Storage
 
-## ▶ How to Run
-1. Install requirements:
+
